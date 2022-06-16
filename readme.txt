@@ -3,4 +3,4 @@ token: yada
 token: blah
 token: three
 token: gold
-token: foo2
+token: foo3
